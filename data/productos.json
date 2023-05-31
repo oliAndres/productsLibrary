@@ -1,0 +1,58 @@
+[
+   {
+      "id": 1,
+      "nombre": "lapicera",
+      "marca": "bic",
+      "precio": 100,
+      "descuento": 5,
+      "stock": false
+   },
+   {
+      "id": 2,
+      "nombre": "goma",
+      "marca": "dos banderas",
+      "precio": 100,
+      "descuento": 10,
+      "stock": false
+   },
+   {
+      "id": 3,
+      "nombre": "tijera",
+      "marca": "mapped",
+      "precio": 300,
+      "descuento": 10,
+      "stock": true
+   },
+   {
+      "id": 4,
+      "nombre": "cartuchera",
+      "marca": "pizzini",
+      "precio": 1300,
+      "descuento": 20,
+      "stock": true
+   },
+   {
+      "id": 5,
+      "nombre": "escuadra",
+      "marca": "pizzini",
+      "precio": 700,
+      "descuento": 0,
+      "stock": false
+   },
+   {
+      "id": 6,
+      "nombre": "lapices",
+      "marca": "faber castel",
+      "precio": 2500,
+      "descuento": 0,
+      "stock": false
+   },
+   {
+      "id": 7,
+      "nombre": "transportador 180",
+      "marca": "pizzini",
+      "precio": 1500,
+      "descuento": 20,
+      "stock": false
+   }
+]
